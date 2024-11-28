@@ -7,8 +7,9 @@
 - Frameworks: Spring Boot
 - Banco de Dados: PostgreSQL, SQL Server, Oracle, SQLite
 
-🌎 Idiomas
-- Inglês: Avançado  
+🌎 **Idiomas**  
+
+- **Inglês**: Avançado  
 Pronto para colaborar em projetos globais e comunicar ideias com clareza.
 
 📫 Contato

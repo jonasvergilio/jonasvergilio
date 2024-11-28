@@ -3,13 +3,12 @@
 🎯 Desenvolvedor Back-end
 
 🚀 Habilidades
-Linguagens de programação: Java
-Frameworks: Spring Boot
-Banco de Dados: PostgreSQL, SQL Server, Oracle, SQLite
+- Linguagens de programação: Java
+- Frameworks: Spring Boot
+- Banco de Dados: PostgreSQL, SQL Server, Oracle, SQLite
 
 🌎 Idiomas
-Português: Nativo
-Inglês: Avançado
+- Inglês: Avançado
 Pronto para colaborar em projetos globais e comunicar ideias com clareza.
 
 📫 Contato

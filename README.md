@@ -1,18 +1,18 @@
 👋 Olá, eu sou Jonas!
 
-🎯 Desenvolvedor Back-end
+🎯 Desenvolvedor **Back-end**
 
-🚀 Habilidades
-- Linguagens de programação: Java
-- Frameworks: Spring Boot
-- Banco de Dados: PostgreSQL, SQL Server, Oracle, SQLite
+🚀 **Habilidades**
+- **Linguagens de programação:** Java
+- **Frameworks:** Spring Boot
+- **Banco de Dados:** PostgreSQL, SQL Server, Oracle, SQLite
 
 🌎 **Idiomas**  
 
 - **Inglês**: Avançado  
 Pronto para colaborar em projetos globais e comunicar ideias com clareza.
 
-📫 Contato
+📫 **Contato**
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonasvergilio/)  
 - 📧 [jonasvergilio@gmail.com](mailto:jonasvergilio@gmail.com)
 
